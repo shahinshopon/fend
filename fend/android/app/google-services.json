@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951756296234",
+    "project_id": "fend-bf244",
+    "storage_bucket": "fend-bf244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951756296234:android:038dd0383e24b3915df353",
+        "android_client_info": {
+          "package_name": "com.example.allwellbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951756296234-utl1m00ipbnuer9d52c4626286cp4g80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allwellbuy",
+            "certificate_hash": "f9c86f7feb0172d88dcd2ce9cc1b59303a82a945"
+          }
+        },
+        {
+          "client_id": "951756296234-j1dvie7np3lq1lr0jppmv7s6c40p590o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-D-yssr_UtdEd5E14Aa7M4z0dxAJkqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951756296234-j1dvie7np3lq1lr0jppmv7s6c40p590o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
